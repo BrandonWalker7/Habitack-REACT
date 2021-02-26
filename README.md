@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/img/logo.png">
+  <img src="Habitack-master/src/img/logo.png">
 </p>
 
 ## Local Session (Firebase)
