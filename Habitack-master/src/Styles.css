@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F9F9F9;
+    width: auto;
+    padding-bottom: 100px;
+}
+
+.app {
+    top: 0;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.botNav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.bot-nav-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.content {
+    align-items: center;
+}
+.icon {
+    margin-right: 16px;
+}
+
+.largeIcon {
+    width: 160px;
+    height: 160px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.calendar {
+    background-color: #ffffff;
+}
+
